@@ -1,0 +1,40 @@
+C:\SysProg\Laba7\F4_WebService\F4_WebService\obj\Debug\F4_WebService.csprojResolveAssemblyReference.cache
+C:\SysProg\Laba7\F4_WebService\F4_WebService\obj\Debug\F4_WebService.csproj.CoreCompileInputs.cache
+C:\SysProg\Laba7\F4_WebService\F4_WebService\bin\F4_WebService.dll.config
+C:\SysProg\Laba7\F4_WebService\F4_WebService\bin\F4_WebService.dll
+C:\SysProg\Laba7\F4_WebService\F4_WebService\bin\F4_WebService.pdb
+C:\SysProg\Laba7\F4_WebService\F4_WebService\bin\Library-1.dll
+C:\SysProg\Laba7\F4_WebService\F4_WebService\bin\Library-2.dll
+C:\SysProg\Laba7\F4_WebService\F4_WebService\bin\Library-3.dll
+C:\SysProg\Laba7\F4_WebService\F4_WebService\bin\Library-4.dll
+C:\SysProg\Laba7\F4_WebService\F4_WebService\bin\Library-1.pdb
+C:\SysProg\Laba7\F4_WebService\F4_WebService\bin\Library-2.pdb
+C:\SysProg\Laba7\F4_WebService\F4_WebService\bin\Library-3.pdb
+C:\SysProg\Laba7\F4_WebService\F4_WebService\bin\Library-4.pdb
+C:\SysProg\Laba7\F4_WebService\F4_WebService\obj\Debug\F4_WebService.csproj.CopyComplete
+C:\SysProg\Laba7\F4_WebService\F4_WebService\obj\Debug\F4_WebService.dll
+C:\SysProg\Laba7\F4_WebService\F4_WebService\obj\Debug\F4_WebService.pdb
+C:\sys-prog\Lab-7\F4_WebService\F4_WebService\bin\F4_WebService.dll.config
+C:\sys-prog\Lab-7\F4_WebService\F4_WebService\bin\F4_WebService.dll
+C:\sys-prog\Lab-7\F4_WebService\F4_WebService\bin\F4_WebService.pdb
+C:\sys-prog\Lab-7\F4_WebService\F4_WebService\bin\Library-1.pdb
+C:\sys-prog\Lab-7\F4_WebService\F4_WebService\bin\Library-2.pdb
+C:\sys-prog\Lab-7\F4_WebService\F4_WebService\bin\Library-3.pdb
+C:\sys-prog\Lab-7\F4_WebService\F4_WebService\bin\Library-4.pdb
+C:\sys-prog\Lab-7\F4_WebService\F4_WebService\obj\Debug\F4_WebService.csprojAssemblyReference.cache
+C:\sys-prog\Lab-7\F4_WebService\F4_WebService\obj\Debug\F4_WebService.csproj.CoreCompileInputs.cache
+C:\sys-prog\Lab-7\F4_WebService\F4_WebService\obj\Debug\F4_WebService.csproj.CopyComplete
+C:\sys-prog\Lab-7\F4_WebService\F4_WebService\obj\Debug\F4_WebService.dll
+C:\sys-prog\Lab-7\F4_WebService\F4_WebService\obj\Debug\F4_WebService.pdb
+D:\3-й курс\1-й семестр\Системне програмування\Lab7\F4_WebService\F4_WebService\bin\F4_WebService.dll.config
+D:\3-й курс\1-й семестр\Системне програмування\Lab7\F4_WebService\F4_WebService\bin\F4_WebService.dll
+D:\3-й курс\1-й семестр\Системне програмування\Lab7\F4_WebService\F4_WebService\bin\F4_WebService.pdb
+D:\3-й курс\1-й семестр\Системне програмування\Lab7\F4_WebService\F4_WebService\bin\Library-2.dll
+D:\3-й курс\1-й семестр\Системне програмування\Lab7\F4_WebService\F4_WebService\bin\Library-4.dll
+D:\3-й курс\1-й семестр\Системне програмування\Lab7\F4_WebService\F4_WebService\bin\Library-2.pdb
+D:\3-й курс\1-й семестр\Системне програмування\Lab7\F4_WebService\F4_WebService\bin\Library-4.pdb
+D:\3-й курс\1-й семестр\Системне програмування\Lab7\F4_WebService\F4_WebService\obj\Debug\F4_WebService.csproj.CoreCompileInputs.cache
+D:\3-й курс\1-й семестр\Системне програмування\Lab7\F4_WebService\F4_WebService\obj\Debug\F4_WebService.csproj.CopyComplete
+D:\3-й курс\1-й семестр\Системне програмування\Lab7\F4_WebService\F4_WebService\obj\Debug\F4_WebService.dll
+D:\3-й курс\1-й семестр\Системне програмування\Lab7\F4_WebService\F4_WebService\obj\Debug\F4_WebService.pdb
+D:\3-й курс\1-й семестр\Системне програмування\Lab7\F4_WebService\F4_WebService\obj\Debug\F4_WebService.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\3-й курс\1-й семестр\Системне програмування\Library-2\Library-2\bin\Debug\Library-2.dll
+D:\3-й курс\1-й семестр\Системне програмування\Library-2\Library-2\bin\Debug\Library-2.pdb
+D:\3-й курс\1-й семестр\Системне програмування\Library-2\Library-2\obj\Debug\Library-2.csproj.CoreCompileInputs.cache
+D:\3-й курс\1-й семестр\Системне програмування\Library-2\Library-2\obj\Debug\Library-2.dll
+D:\3-й курс\1-й семестр\Системне програмування\Library-2\Library-2\obj\Debug\Library-2.pdb
+D:\3-й курс\1-й семестр\Системне програмування\Library-2\Library-2\obj\Debug\Library-2.csprojAssemblyReference.cache

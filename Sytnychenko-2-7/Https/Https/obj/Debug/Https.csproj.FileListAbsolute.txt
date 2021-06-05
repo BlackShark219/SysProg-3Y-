@@ -1,0 +1,30 @@
+C:\SysProg\Laba7\Https\Https\bin\Debug\Https.exe.config
+C:\SysProg\Laba7\Https\Https\bin\Debug\Https.exe
+C:\SysProg\Laba7\Https\Https\bin\Debug\Https.pdb
+C:\SysProg\Laba7\Https\Https\obj\Debug\Https.csprojResolveAssemblyReference.cache
+C:\SysProg\Laba7\Https\Https\obj\Debug\Https.Form1.resources
+C:\SysProg\Laba7\Https\Https\obj\Debug\Https.Properties.Resources.resources
+C:\SysProg\Laba7\Https\Https\obj\Debug\Https.csproj.GenerateResource.cache
+C:\SysProg\Laba7\Https\Https\obj\Debug\Https.csproj.CoreCompileInputs.cache
+C:\SysProg\Laba7\Https\Https\obj\Debug\Https.exe
+C:\SysProg\Laba7\Https\Https\obj\Debug\Https.pdb
+C:\sys-prog\Lab-7\Https\Https\bin\Debug\Https.exe.config
+C:\sys-prog\Lab-7\Https\Https\bin\Debug\Https.exe
+C:\sys-prog\Lab-7\Https\Https\bin\Debug\Https.pdb
+C:\sys-prog\Lab-7\Https\Https\obj\Debug\Https.csprojAssemblyReference.cache
+C:\sys-prog\Lab-7\Https\Https\obj\Debug\Https.Form1.resources
+C:\sys-prog\Lab-7\Https\Https\obj\Debug\Https.Properties.Resources.resources
+C:\sys-prog\Lab-7\Https\Https\obj\Debug\Https.csproj.GenerateResource.cache
+C:\sys-prog\Lab-7\Https\Https\obj\Debug\Https.csproj.CoreCompileInputs.cache
+C:\sys-prog\Lab-7\Https\Https\obj\Debug\Https.exe
+C:\sys-prog\Lab-7\Https\Https\obj\Debug\Https.pdb
+D:\3-й курс\1-й семестр\Системне програмування\Lab7\Https\Https\bin\Debug\Https.exe.config
+D:\3-й курс\1-й семестр\Системне програмування\Lab7\Https\Https\bin\Debug\Https.exe
+D:\3-й курс\1-й семестр\Системне програмування\Lab7\Https\Https\bin\Debug\Https.pdb
+D:\3-й курс\1-й семестр\Системне програмування\Lab7\Https\Https\obj\Debug\Https.csprojAssemblyReference.cache
+D:\3-й курс\1-й семестр\Системне програмування\Lab7\Https\Https\obj\Debug\Https.Form1.resources
+D:\3-й курс\1-й семестр\Системне програмування\Lab7\Https\Https\obj\Debug\Https.Properties.Resources.resources
+D:\3-й курс\1-й семестр\Системне програмування\Lab7\Https\Https\obj\Debug\Https.csproj.GenerateResource.cache
+D:\3-й курс\1-й семестр\Системне програмування\Lab7\Https\Https\obj\Debug\Https.csproj.CoreCompileInputs.cache
+D:\3-й курс\1-й семестр\Системне програмування\Lab7\Https\Https\obj\Debug\Https.exe
+D:\3-й курс\1-й семестр\Системне програмування\Lab7\Https\Https\obj\Debug\Https.pdb

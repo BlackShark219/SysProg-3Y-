@@ -1,0 +1,30 @@
+C:\SysProg\Laba7\Proxy\Proxy\bin\Debug\Proxy.exe.config
+C:\SysProg\Laba7\Proxy\Proxy\bin\Debug\Proxy.exe
+C:\SysProg\Laba7\Proxy\Proxy\bin\Debug\Proxy.pdb
+C:\SysProg\Laba7\Proxy\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+C:\SysProg\Laba7\Proxy\Proxy\obj\Debug\Proxy.Form1.resources
+C:\SysProg\Laba7\Proxy\Proxy\obj\Debug\Proxy.Properties.Resources.resources
+C:\SysProg\Laba7\Proxy\Proxy\obj\Debug\Proxy.csproj.GenerateResource.cache
+C:\SysProg\Laba7\Proxy\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\SysProg\Laba7\Proxy\Proxy\obj\Debug\Proxy.exe
+C:\SysProg\Laba7\Proxy\Proxy\obj\Debug\Proxy.pdb
+C:\sys-prog\Lab-7\Proxy\Proxy\bin\Debug\Proxy.exe.config
+C:\sys-prog\Lab-7\Proxy\Proxy\bin\Debug\Proxy.exe
+C:\sys-prog\Lab-7\Proxy\Proxy\bin\Debug\Proxy.pdb
+C:\sys-prog\Lab-7\Proxy\Proxy\obj\Debug\Proxy.csprojAssemblyReference.cache
+C:\sys-prog\Lab-7\Proxy\Proxy\obj\Debug\Proxy.Form1.resources
+C:\sys-prog\Lab-7\Proxy\Proxy\obj\Debug\Proxy.Properties.Resources.resources
+C:\sys-prog\Lab-7\Proxy\Proxy\obj\Debug\Proxy.csproj.GenerateResource.cache
+C:\sys-prog\Lab-7\Proxy\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\sys-prog\Lab-7\Proxy\Proxy\obj\Debug\Proxy.exe
+C:\sys-prog\Lab-7\Proxy\Proxy\obj\Debug\Proxy.pdb
+D:\3-й курс\1-й семестр\Системне програмування\Lab7\Proxy\Proxy\bin\Debug\Proxy.exe.config
+D:\3-й курс\1-й семестр\Системне програмування\Lab7\Proxy\Proxy\bin\Debug\Proxy.exe
+D:\3-й курс\1-й семестр\Системне програмування\Lab7\Proxy\Proxy\bin\Debug\Proxy.pdb
+D:\3-й курс\1-й семестр\Системне програмування\Lab7\Proxy\Proxy\obj\Debug\Proxy.csprojAssemblyReference.cache
+D:\3-й курс\1-й семестр\Системне програмування\Lab7\Proxy\Proxy\obj\Debug\Proxy.Form1.resources
+D:\3-й курс\1-й семестр\Системне програмування\Lab7\Proxy\Proxy\obj\Debug\Proxy.Properties.Resources.resources
+D:\3-й курс\1-й семестр\Системне програмування\Lab7\Proxy\Proxy\obj\Debug\Proxy.csproj.GenerateResource.cache
+D:\3-й курс\1-й семестр\Системне програмування\Lab7\Proxy\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+D:\3-й курс\1-й семестр\Системне програмування\Lab7\Proxy\Proxy\obj\Debug\Proxy.exe
+D:\3-й курс\1-й семестр\Системне програмування\Lab7\Proxy\Proxy\obj\Debug\Proxy.pdb

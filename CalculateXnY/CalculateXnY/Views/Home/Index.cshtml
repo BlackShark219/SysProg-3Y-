@@ -1,0 +1,50 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<!DOCTYPE html>
+
+<html>
+    <body>
+        <form id="main">
+            <fieldset>
+                <legend>Calculate Function</legend>
+                <div>
+                    <label>X:</label>
+                    <input type="number" id="x" />
+                </div>
+                <div>
+                    <label>Y:</label>
+                    <input type="number" id="y" />
+                </div>
+                <div>
+                    <label>Result:</label>
+                    <input readonly id="res" value="" />
+                </div>
+                <div>
+                    <input type="submit" onclick="EnterData()" class="btn btn-primary button-style add-margin" value="Calculate" />
+                </div>
+            </fieldset>
+        </form>
+        @section scripts
+        {
+            <script type="text/javascript">
+                function EnterData()
+                {
+                    $('#main').submit(function (e) { e.preventDefault() });
+                    let url = "@Url.Action("Calc","Home")";
+                    let data = { x: $("#x").val(), y: $("#y").val() }
+                    $.getJSON(url,
+                        data,
+                        function (response) {
+                            $("#res").val(response);
+                            setTimeout(function () {
+                                $("#x").val("");
+                                $("#y").val("");
+                            }, 2000);
+                    });
+                }
+            </script>
+        }
+    </body >
+</html >
+
